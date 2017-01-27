@@ -1,0 +1,12 @@
+.idea
+.classpath
+.project
+.settings
+*.iml
+target
+/tmp
+/metastore_db
+project/boot
+project/build/target
+project/project.target.config-classes
+project/plugins/project
